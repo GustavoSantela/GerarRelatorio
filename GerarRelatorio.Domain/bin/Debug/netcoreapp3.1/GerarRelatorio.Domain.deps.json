@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GerarRelatorio.Domain/1.0.0": {
+        "runtime": {
+          "GerarRelatorio.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GerarRelatorio.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

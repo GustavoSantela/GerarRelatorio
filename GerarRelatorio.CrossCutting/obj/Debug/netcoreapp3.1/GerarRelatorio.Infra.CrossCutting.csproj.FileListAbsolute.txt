@@ -1,0 +1,8 @@
+C:\Users\gusta\Downloads\Solution\NetCore\GerarRelatorio\GerarRelatorio.CrossCutting\bin\Debug\netcoreapp3.1\GerarRelatorio.Infra.CrossCutting.deps.json
+C:\Users\gusta\Downloads\Solution\NetCore\GerarRelatorio\GerarRelatorio.CrossCutting\bin\Debug\netcoreapp3.1\GerarRelatorio.Infra.CrossCutting.dll
+C:\Users\gusta\Downloads\Solution\NetCore\GerarRelatorio\GerarRelatorio.CrossCutting\bin\Debug\netcoreapp3.1\GerarRelatorio.Infra.CrossCutting.pdb
+C:\Users\gusta\Downloads\Solution\NetCore\GerarRelatorio\GerarRelatorio.CrossCutting\obj\Debug\netcoreapp3.1\GerarRelatorio.Infra.CrossCutting.csprojAssemblyReference.cache
+C:\Users\gusta\Downloads\Solution\NetCore\GerarRelatorio\GerarRelatorio.CrossCutting\obj\Debug\netcoreapp3.1\GerarRelatorio.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\gusta\Downloads\Solution\NetCore\GerarRelatorio\GerarRelatorio.CrossCutting\obj\Debug\netcoreapp3.1\GerarRelatorio.Infra.CrossCutting.AssemblyInfo.cs
+C:\Users\gusta\Downloads\Solution\NetCore\GerarRelatorio\GerarRelatorio.CrossCutting\obj\Debug\netcoreapp3.1\GerarRelatorio.Infra.CrossCutting.dll
+C:\Users\gusta\Downloads\Solution\NetCore\GerarRelatorio\GerarRelatorio.CrossCutting\obj\Debug\netcoreapp3.1\GerarRelatorio.Infra.CrossCutting.pdb

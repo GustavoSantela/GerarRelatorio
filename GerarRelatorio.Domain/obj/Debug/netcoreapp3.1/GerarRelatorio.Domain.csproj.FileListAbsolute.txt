@@ -1,0 +1,7 @@
+C:\Users\gusta\Downloads\Solution\NetCore\GerarRelatorio\GerarRelatorio.Domain\bin\Debug\netcoreapp3.1\GerarRelatorio.Domain.deps.json
+C:\Users\gusta\Downloads\Solution\NetCore\GerarRelatorio\GerarRelatorio.Domain\bin\Debug\netcoreapp3.1\GerarRelatorio.Domain.dll
+C:\Users\gusta\Downloads\Solution\NetCore\GerarRelatorio\GerarRelatorio.Domain\bin\Debug\netcoreapp3.1\GerarRelatorio.Domain.pdb
+C:\Users\gusta\Downloads\Solution\NetCore\GerarRelatorio\GerarRelatorio.Domain\obj\Debug\netcoreapp3.1\GerarRelatorio.Domain.AssemblyInfoInputs.cache
+C:\Users\gusta\Downloads\Solution\NetCore\GerarRelatorio\GerarRelatorio.Domain\obj\Debug\netcoreapp3.1\GerarRelatorio.Domain.AssemblyInfo.cs
+C:\Users\gusta\Downloads\Solution\NetCore\GerarRelatorio\GerarRelatorio.Domain\obj\Debug\netcoreapp3.1\GerarRelatorio.Domain.dll
+C:\Users\gusta\Downloads\Solution\NetCore\GerarRelatorio\GerarRelatorio.Domain\obj\Debug\netcoreapp3.1\GerarRelatorio.Domain.pdb

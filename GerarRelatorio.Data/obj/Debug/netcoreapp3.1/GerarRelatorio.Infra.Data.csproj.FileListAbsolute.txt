@@ -1,0 +1,8 @@
+C:\Users\gusta\Downloads\Solution\NetCore\GerarRelatorio\GerarRelatorio.Data\bin\Debug\netcoreapp3.1\GerarRelatorio.Infra.Data.deps.json
+C:\Users\gusta\Downloads\Solution\NetCore\GerarRelatorio\GerarRelatorio.Data\bin\Debug\netcoreapp3.1\GerarRelatorio.Infra.Data.dll
+C:\Users\gusta\Downloads\Solution\NetCore\GerarRelatorio\GerarRelatorio.Data\bin\Debug\netcoreapp3.1\GerarRelatorio.Infra.Data.pdb
+C:\Users\gusta\Downloads\Solution\NetCore\GerarRelatorio\GerarRelatorio.Data\obj\Debug\netcoreapp3.1\GerarRelatorio.Infra.Data.csprojAssemblyReference.cache
+C:\Users\gusta\Downloads\Solution\NetCore\GerarRelatorio\GerarRelatorio.Data\obj\Debug\netcoreapp3.1\GerarRelatorio.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\gusta\Downloads\Solution\NetCore\GerarRelatorio\GerarRelatorio.Data\obj\Debug\netcoreapp3.1\GerarRelatorio.Infra.Data.AssemblyInfo.cs
+C:\Users\gusta\Downloads\Solution\NetCore\GerarRelatorio\GerarRelatorio.Data\obj\Debug\netcoreapp3.1\GerarRelatorio.Infra.Data.dll
+C:\Users\gusta\Downloads\Solution\NetCore\GerarRelatorio\GerarRelatorio.Data\obj\Debug\netcoreapp3.1\GerarRelatorio.Infra.Data.pdb
